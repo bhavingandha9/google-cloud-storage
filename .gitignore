@@ -3,4 +3,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 package-lock.json
+yarn.lock
 .snyk
+learning-fe55727c9f92.json
